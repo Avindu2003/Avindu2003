@@ -73,8 +73,7 @@ I am a versatile and driven **Software Engineer** specializing in Full-Stack dev
 ### 📊 GitHub Stats & Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avindu2003&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Avindu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avindu2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-metrics.vercel.app/Avindu2003?template=repository&lines=base,languages,editors&theme=tokyonight" alt="Avindu's GitHub Metrics" width="100%" />
 </p>
 
 <p align="left">
@@ -84,8 +83,8 @@ I am a versatile and driven **Software Engineer** specializing in Full-Stack dev
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [https://lk.linkedin.com/in/avindu-lakshan-b7b738327?trk=people-guest_people_search-card]
-- 📧 **Email:** [avindu1lakshan1@gmail.com]
-- 🌐 **Portfolio/Vercel:** [Your Portfolio Link Here]
+- 💼 **LinkedIn:** [Avindu Lakshan](https://lk.linkedin.com/in/avindu-lakshan-b7b738327?trk=people-guest_people_search-card)
+- 📧 **Email:** avindu1lakshan1@gmail.com
+- 🌐 **Portfolio/Vercel:** [M&T Live Demo](https://mt-esports-frontend.vercel.app/)
 
 <p align="right"><i>Keep coding, keep leveling up! 🚀</i></p>
