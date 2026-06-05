@@ -1,83 +1,71 @@
-# 👋 Hi, I'm Avindu Lakshan Perera 🚀
-### Software Engineer | Full-Stack Developer | BIT Undergraduate at University of Colombo
+# 🕵️‍♂️ SYSTEM_INIT: Avindu Lakshan Perera 
+### >_ Software Engineer | Frontend Specialist | BIT Undergraduate
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-indigo?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Architecture-0055FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Oracle%20OCI-FF0055?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
 
-### 💫 About Me
-I am a versatile and driven **Software Engineer** specializing in Full-Stack development, currently pursuing a **Bachelor of Information Technology (BIT)** at the **University of Colombo** (2024 - 2027). I have a strong passion for architecting high-performance web applications using robust frontend frameworks and scalable backend architecture.
+### 🌌 [ PROFESSIONAL_SUMMARY.md ]
+> *"Architecting scalable, user-centric interfaces and secure enterprise systems."*
 
-> 🎓 **Academic Path:** Undergraduate at University of Colombo (BIT) & holder of an Industrial Diploma in Software Development (IDSD).
-> <br>☁️ **Cloud Deployment:** Configuring and managing cloud architecture baselines natively over Oracle Cloud Infrastructure (OCI).
-> <br>🎮 **E-sports Workflows:** Founder & Leader of the **LAST HOPE** community—managing complex tournament brackets and competitive digital infrastructure.
+I am a highly driven **Software Engineer** specializing in Frontend Architecture, currently pursuing a **Bachelor of Information Technology (BIT)** at the **University of Colombo** (2024 - 2027). My core focus lies in building high-performance, complex web applications and deploying resilient system baselines into cloud environments.
 
----
-
-### 🛠️ Technical Expertise & Ecosystem
-
-<table>
-  <tr>
-    <td align="left" width="50%" valign="top">
-      <h4>🧑‍💻 Frontend Engineering</h4>
-      <ul>
-        <li><b>Frameworks:</b> Angular (SPA Core)</li>
-        <li><b>Languages:</b> TypeScript, JavaScript (ES6+)</li>
-        <li><b>Styling & UI:</b> Tailwind CSS, HTML5, CSS3 Modern Layouts</li>
-        <li><b>UI Architecture:</b> Responsive views, component interaction, lazy loading</li>
-      </ul>
-    </td>
-    <td align="left" width="50%" valign="top">
-      <h4>⚙️ Backend & Systems</h4>
-      <ul>
-        <li><b>Frameworks:</b> Laravel (MVC Core), Node.js (Runtime)</li>
-        <li><b>Languages:</b> PHP, JavaScript (Server-side)</li>
-        <li><b>Databases:</b> MySQL (Relational Schema Design & RBAC)</li>
-        <li><b>Version Control:</b> Git, GitHub Collaboration workflow</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 💻 **Engineering Focus:** Crafting pixel-perfect, secure UIs using modern JavaScript frameworks.
+- ⚙️ **System Design:** Maintaining clear MVC structures and logic-driven backend endpoints.
+- ☁️ **Infrastructure:** Deploying structural frameworks natively via **Oracle Cloud Infrastructure (OCI)**.
+- 🎯 **Objective:** Seeking opportunities to solve complex technical challenges and contribute to scalable enterprise software solutions.
 
 ---
 
-### 🏆 Featured Project Showcases
+### 💻 [ CORE_ARSENAL.exe ]
 
-#### 🎮 1. [M&T E-sports Hub](https://mt-esports-frontend.vercel.app/)
-* **Role/Architecture:** Core Frontend Development
-* **Tech Stack:** `#Angular` `#TypeScript` `#TailwindCSS` `#OCI-Hosting`
-* **Description:** Secure frontend environment tailored for active team management. Features responsive views, dynamic status grids, and integrated digital assets hosted over **Oracle Cloud Infrastructure (OCI)**.
-* **🔗 Links:** [Live Demo](https://mt-esports-frontend.vercel.app/) | [Source Code](https://github.com/Avindu2003/mt-esports-frontend)
+#### 🛡️ FRONTEND ENGINEERING (Primary)
+* `Angular` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5/CSS3`
 
-#### ⚡ 2. LAST HOPE Tournament Platform
-* **Role/Architecture:** Backend System Design
-* **Tech Stack:** `#NodeJS` `#JavaScript` `#MatchFlow-Logic`
-* **Description:** Customized tracking layout configured with an automated bracket scoring engine built to handle structural match flow and team standing metrics for a 96-team tournament.
+#### ⚙️ BACKEND & SYSTEMS
+* `Node.js` `Laravel` `PHP` `MySQL` (RBAC & Relational Schemas)
 
-#### 📊 3. Tournament Admin Panel
-* **Role/Architecture:** Frontend UX & State Management
+#### ☁️ CLOUD, DEVOPS & TOOLS
+* `Oracle Cloud (OCI)` `Git Collaboration` `GitHub` `Vercel` `Postman`
+
+---
+
+### 🗄️ [ MISSION_LOGS // Engineering_Projects ]
+
+**[01] 🌐 Digital Management Hub (M&T Platform)**
+* **Classification:** Frontend Architecture & Cloud Deployment
+* **Tech Stack:** `#Angular` `#TypeScript` `#Oracle-OCI`
+* **Engineering Scope:** Developed a secure, responsive frontend environment tailored for active user management. Implemented dynamic data views and analytics tracking, deploying the final build flawlessly via Oracle Cloud.
+* **Access:** [Live Application](https://mt-esports-frontend.vercel.app/) | [Source Code](https://github.com/Avindu2003/mt-esports-frontend)
+
+**[02] ⚡ Automated Scoring Engine**
+* **Classification:** Backend Logic & Flow Processing
+* **Tech Stack:** `#NodeJS` `#Algorithms` `#Data-Structures`
+* **Engineering Scope:** Engineered a customized data-tracking platform featuring an automated bracket scoring logic. Built entirely on Node.js to handle structural flow processing and real-time standing metrics for large-scale user events.
+
+**[03] 📊 Enterprise Control Dashboard**
+* **Classification:** Frontend UX & State Management
 * **Tech Stack:** `#Angular` `#Data-Arrays` `#Dashboard-UX`
-* **Description:** High-fidelity control dashboard featuring structured team data array management, live point sheets, and dynamic leaderboard rendering.
+* **Engineering Scope:** Architected a high-fidelity control dashboard to process and render dense data arrays. Built dynamic point sheets and leaderboard rendering components using Angular's advanced state management.
 
-#### 🏦 4. E-Loan Management System
-* **Role/Architecture:** Full-Stack Development
+**[04] 🏦 E-Loan Management System**
+* **Classification:** Full-Stack MVC Application
 * **Tech Stack:** `#Laravel` `#PHP` `#MySQL` `#MVC`
-* **Description:** Enterprise request module incorporating Role-Based Access Control (RBAC) and data schema structures built atop the Laravel MVC framework.
+* **Engineering Scope:** Developed a secure request workflow incorporating strict Role-Based Access Control (RBAC). Designed normalized relational database schemas directly atop the Laravel MVC framework.
 
 ---
 
-### 🤝 Professional Network & Connect
+### 📡 [ SECURE_COMMS ]
 
-* 💼 **LinkedIn Profile:** [Connect with Avindu on LinkedIn](https://lk.linkedin.com/in/avindu-lakshan-b7b738327?trk=people-guest_people_search-card)
-* 📧 **Corporate Email:** [avindu1lakshan1@gmail.com](mailto:avindu1lakshan1@gmail.com)
-* 🌐 **Deployment Hub:** [Explore Live Apps on Vercel](https://mt-esports-frontend.vercel.app/)
+* 🛰️ **LinkedIn Network:** [Connect with Avindu](https://lk.linkedin.com/in/avindu-lakshan-b7b738327?trk=people-guest_people_search-card)
+* ✉️ **Corporate Mail:** [avindu1lakshan1@gmail.com](mailto:avindu1lakshan1@gmail.com)
 
----
+<br>
 
 <p align="center">
-  <b><i>Building robust architectures, line by line. Powered by Code & Coffee. ☕🚀</i></b>
+  <i>>_ Compiling code. Engineering the future. 👾💻</i>
 </p>
