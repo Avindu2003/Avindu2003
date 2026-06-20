@@ -1,81 +1,71 @@
-# 🕵️‍♂️ SYSTEM_INIT: Avindu Lakshan Perera 
-### >_ Software Engineer | Frontend Specialist | BIT Undergraduate
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-6366f1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Architecture-0055FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
----
-
-### 🌌 [ PROFESSIONAL_SUMMARY.md ]
-> *"Architecting scalable, user-centric interfaces and secure enterprise systems."*
-
-I am a highly driven **Software Engineer** specializing in Frontend Architecture, currently pursuing a **Bachelor of Information Technology (BIT)** at the **University of Colombo** (2024 - 2027). My core focus lies in building high-performance, complex web applications and deploying resilient system baselines into cloud environments.
-
-- 💻 **Engineering Focus:** Crafting pixel-perfect, secure UIs using modern JavaScript frameworks.
-- ⚙️ **System Design:** Maintaining clear MVC structures and logic-driven backend endpoints.
-- ☁️ **Infrastructure:** Deploying structural frameworks natively via cloud environments.
-- 🎯 **Objective:** Seeking opportunities to solve complex technical challenges and contribute to scalable enterprise software solutions.
-
----
-
-### 💻 [ CORE_ARSENAL.exe ]
-
-#### 🛡️ FRONTEND ENGINEERING (Primary)
-* `Angular` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5/CSS3`
-
-#### ⚙️ BACKEND & SYSTEMS
-* `Node.js` `Express` `Laravel` `PHP` `MySQL` (RBAC & Relational Schemas)
-
-#### ☁️ CLOUD, DEVOPS & TOOLS
-* `Oracle Cloud (OCI)` `Git Collaboration` `GitHub` `Vercel` `Postman`
-
----
-
-### 🗄️ [ MISSION_LOGS // Engineering_Projects ]
-
-**[01] 🌐 Digital Management Hub (M&T Platform)**
-* **Classification:** Frontend Architecture & State Interaction
-* **Tech Stack:** `#Angular` `#TypeScript` `#TailwindCSS`
-* **Engineering Scope:** Developed a secure, responsive frontend environment tailored for active user management. Implemented dynamic data views and analytics tracking, ensuring flawless client-side state interactions.
-* **Access:** [Live Application](https://mt-esports-frontend.vercel.app/) | [Source Code](https://github.com/Avindu2003/mt-esports-frontend)
-
-**[02] ⚡ Automated Scoring Engine (LAST HOPE)**
-* **Classification:** Backend Logic & Flow Processing
-* **Tech Stack:** `#NodeJS` `#Express` `#Algorithms` `#Data-Structures`
-* **Engineering Scope:** Engineered a customized data-tracking platform featuring an automated bracket scoring logic to handle 96 teams. Built entirely on Node.js to handle structural flow processing and real-time standing metrics.
-
-**[03] 📊 Enterprise Control Dashboard (Tournament Admin)**
-* **Classification:** Frontend UX & Dynamic Data Array Management
-* **Tech Stack:** `#Angular` `#Data-Arrays` `#Dashboard-UX`
-* **Engineering Scope:** Architected a high-fidelity control dashboard to process and render dense data arrays. Built dynamic point sheets and leaderboard rendering components using Angular's advanced state management.
-* **Access:** [Live Application](https://tournment-management-git-main-avindu2003s-projects.vercel.app/) | [Source Code](https://github.com/Avindu2003/Tournment-Management)
-
-**[04] 🏦 E-Loan Management System**
-* **Classification:** Full-Stack MVC Application
-* **Tech Stack:** `#Laravel` `#PHP` `#MySQL` `#MVC`
-* **Engineering Scope:** Developed a secure request workflow incorporating strict Role-Based Access Control (RBAC). Designed normalized relational database schemas directly atop the Laravel MVC framework.
-
----
-
-### 📡 [ SECURE_COMMS ]
-
-<p align="left">
-  <a href="https://portfolio-eta-three-md9t4yg2s3.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-purple?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://lk.linkedin.com/in/avindu-lakshan-b7b738327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:avindullakshan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Corporate%20Mail-emerald?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
+<h1 align="center">Hi, I'm Avindu Lakshan 👋</h1>
+<h3 align="center">Frontend Software Engineer · Angular Developer · BIT Undergraduate</h3>
 
 <p align="center">
-  <i>>_ Compiling code. Engineering the future. 👾💻</i>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+I build responsive, enterprise-grade web applications with Angular and TypeScript, with additional experience integrating Laravel/PHP backends. Currently developing my skills further through production work while completing my degree.
+
+🔍 **Currently open to Frontend / Angular Developer roles**
+
+---
+
+### About Me
+
+- 🎓 Bachelor of Information Technology (BIT) — University of Colombo (2024–2027)
+- 💼 Software Engineer (Trainee) at OpenArc Systems — progressed from Volunteer Developer → Software Engineer Intern → Trainee Software Engineer within one year
+- 🛠️ Focused on Angular (v15–v17), TypeScript, RxJS, and RESTful API integration
+- 📍 Colombo, Sri Lanka
+
+### Skills
+
+**Frontend:** Angular · TypeScript · JavaScript (ES6+) · RxJS · HTML5 · CSS3 · SCSS · Tailwind CSS · Angular Material · Bootstrap
+
+**Backend:** PHP · Laravel · RESTful APIs · MySQL
+
+**Tools:** Git · GitHub · Postman · VS Code · Vercel · Oracle Cloud Infrastructure (OCI)
+
+**Also familiar with:** Java, Spring Boot (basics)
+
+### Experience
+
+**Trainee Software Engineer** — OpenArc Systems *(Aug 2025 – Jan 2026)*
+Resolved 40+ production bugs across enterprise Angular applications and built responsive UI features for dashboards used by hundreds of daily users.
+
+**Software Engineer Intern** — OpenArc Systems *(Jan 2025 – Aug 2025)*
+Built 20+ reusable Angular components for production-tracking and education-management systems, reducing component duplication by ~40%.
+
+**Volunteer Frontend Developer** — OpenArc Systems *(Oct 2024 – Jan 2025)*
+Contributed to live production modules — layout restructuring, UI testing, and code quality improvements.
+
+### Projects
+
+**[E-Sports Tournament Hub](https://github.com/Avindu2003/mt-esports-frontend)**
+Angular frontend for tracking live tournament schedules and team standings.
+🔗 [Live demo](https://mt-esports-frontend.vercel.app/)
+
+**[Tournament Admin Dashboard](https://github.com/Avindu2003/Tournment-Management)**
+Admin panel for managing point sheets and live standings with dynamic data rendering.
+🔗 [Live demo](https://tournment-management-git-main-avindu2003s-projects.vercel.app/)
+
+**[LST Aurudu Web App](https://github.com/Avindu2003/LST-Aurudu)**
+A cultural event web app built with HTML, CSS, and JavaScript.
+🔗 [Live demo](https://lst-aurudu.vercel.app/)
+
+> Additional enterprise project work — CCTV monitoring dashboards, academic management portals, OCR-integrated systems — was completed under client confidentiality at OpenArc Systems. Details available in my CV/portfolio and happy to discuss in interviews.
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Avindu2003&show_icons=true&theme=default&hide_title=true" />
+</p>
+
+### Get in Touch
+
+📧 [avindu1lakshan1@gmail.com](mailto:avindu1lakshan1@gmail.com)
+💼 [LinkedIn](https://lk.linkedin.com/in/avindu-lakshan-b7b738327)
+🌐 [Portfolio](https://portfolio-eta-three-md9t4yg2s3.vercel.app)
